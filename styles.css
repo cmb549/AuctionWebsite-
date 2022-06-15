@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+	background-color: #C2CED3;
+}
+
+input[type=submit] {
+	background-color: #00003c;
+	font-size: 15px;
+	color: #E3E3E3;
+}
+
+h1 {
+	color: #00003c;
+}
+
+h2 {
+	color: #00003c;
+}
+
+button {
+	background-color: #00003c;
+	font-size: 15px;
+	color: #E3E3E3;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
